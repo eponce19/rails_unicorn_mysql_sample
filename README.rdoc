@@ -21,8 +21,13 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+yum -y install nodejs
+$ sudo bundle exec rails console
 
+* ...
+https://nebulab.it/blog/solidus-deployment-amazon-aws-opsworks/
+https://stackoverflow.com/questions/28079584/problems-deploying-in-opsworks
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-unicorn-and-nginx-on-ubuntu-14-04
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
